@@ -13,3 +13,6 @@ const upi = "Integrated the UPI";
 console.log(upi);
 
 console.log("Latest Update");
+
+// I'm fixing some bug
+console.log("Bug Fixed");
